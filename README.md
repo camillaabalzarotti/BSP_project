@@ -3,7 +3,7 @@ This project, developed by Camilla Balzarotti (me), Emma Battaglia, Ester Penati
 
 It focuses on identifying variations in EEG spectral power and functional connectivity (coherence) across different frequency bands and brain regions.
 
-🔗 A more detailed explanation is available in the pdf located in the presentation folder. 
+🔗 A more detailed explanation is available at 'presentation.pdf' located in the 'docs' folder. 
 
 ## Goals
 * Understand how brain activity shifts from rest to task-based engagement.
