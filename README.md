@@ -1,4 +1,4 @@
-# Biomedical Signal Processing project
+# Biomedical Signal Processing Project: EEG analysis in cognitive tasks
 This project, developed by Camilla Balzarotti (me), Emma Battaglia, Ester Penati and Sara Rebuzzi, as part of the Biomedical Signal Processing and Medical Images course at Politecnico di Milano, investigates how brain activity changes between resting state and cognitive engagement during mental arithmetic tasks.
 
 It focuses on identifying variations in EEG spectral power and functional connectivity (coherence) across different frequency bands and brain regions.
